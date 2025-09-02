@@ -1,6 +1,7 @@
-# Jinja模板测试项目 - OpenAI GPT OSS 120B
+# Jinja 模板测试项目
 
-这是一个用于学习和测试llama.cpp项目中聊天模板的C++测试程序，特别针对`openai-gpt-oss-120b.jinja`模板文件。项目使用Google的[minja](https://github.com/google/minja)库来解析和渲染Jinja2模板。
+这是一个用于学习和测试 llama.cpp 项目中聊天模板的 C++ 测试程序，目前针对的是`openai-gpt-oss-120b.jinja`模板文件。项目使用Google的[minja](https://github.com/google/minja)库来解析和渲染 Jinja2 模板，下列是目前支持测试的模板文件列表：
+ - openai-gpt-oss-120b.jinja
 
 ## 项目结构
 
